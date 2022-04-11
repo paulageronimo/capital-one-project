@@ -48,8 +48,8 @@ Soft goals
 3. Send email
 [ ] notification, *how?*
   
-  
 Stretch Goals
+
 1. Identifiable info
 [ ] phone numbers **Challenging**
 [ ] usernames **Challenging**
@@ -67,4 +67,3 @@ Hard deliverables by **Fri April 15**
 [ ] Code
 [ ] Presentation
 [ ] Demo
-
