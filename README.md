@@ -36,26 +36,30 @@ This will be evaluated by our peers. Higher the creativity, higher the code qual
 ## Checklist overview
 
 Soft goals 
-1. [ ] be able to identfy sensitive information from `CSV` file
-  [ ] emails (contains, is_email?)
-  [ ] SSN (numbers a certain length XXX-XX-XXX)
-  [ ] passwords (is_password)
-2. [ ] be able to notify, create an alert to the person/user
-  [ ] email them
-3. [ ] notification, *how?*
+1. -
+[ ] be able to identfy sensitive information from `CSV` file
+[ ] emails (contains, is_email?)
+[ ] SSN (numbers a certain length XXX-XX-XXX)
+[ ] passwords (is_password)
+2. -
+[ ] be able to notify, create an alert to the person/user
+[ ] email them
+3. -
+[ ] notification, *how?*
   
   
 Stretch Goals
 1. Identifiable info
-  [ ] phone numbers **Challenging**
-  [ ] usernames **Challenging**
-  [ ] Addresses? **Challenging**
+[ ] phone numbers **Challenging**
+[ ] usernames **Challenging**
+[ ] Addresses? **Challenging**
 2. type of alert
-  [ ] email *password* has been found
-  [ ] email *address* has been found
-3. 
-  [ ] if the email is available, email them at that email
-  [ ] if the number is available, text them at that number
+[ ] email *password* has been found
+[ ] email *address* has been found
+3. ???
+[ ] if the email is available, email them at that email
+[ ] if the number is available, text them at that number
+
 [ ] IF DATA IS DETECTED, REDACT IT!, if not, ask them to click some link to reset their data or information methinks
 
 Hard deliverables by **Fri April 15**
