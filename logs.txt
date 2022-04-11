@@ -1,0 +1,19 @@
+Time	Action	Email
+2019-11-13 09:34:22,967	Updated Mailing Address	x0101x@yahoo.com
+2019-11-13 09:34:22,967	Changed Password	x0101x@yahoo.com
+2019-11-13 09:34:22,967	Changed Phone Number	x0101x@yahoo.com
+2019-11-13 09:34:22,967	Created Account ruby12@ymail.com	x0101x@yahoo.com
+2019-11-13 09:34:22,967	Created Account Buford12@gmail.com	x0101x@yahoo.com
+2019-11-13 09:34:22,967	Updated Mailing Address	x0101x@yahoo.com
+2019-11-14 16:34:22,967	Changed Password P@ssw0rd	x0101x@yahoo.com
+2019-11-14 16:34:22,968	Inputted CVV123	x0101x@yahoo.com
+2019-11-14 16:34:22,969	Updated Account Number 1234567	x0101x@yahoo.com
+2019-11-15 17:44:22,963	Changed Password	x0101x@yahoo.com
+2019-11-15 17:44:22,964	Changed Phone Number 231-222-3234	x0101x@yahoo.com
+2019-11-15 17:44:22,965	Updated Mailing Address	x0101x@yahoo.com
+2019-11-15 18:34:22,967	Updated Username	x0101x@yahoo.com
+2019-11-15 18:34:22,968	Changed Password 01932	x0101x@yahoo.com
+2019-11-15 18:34:22,969	Updated Mailing Address Main St., TX, 77890	x0101x@yahoo.com
+2019-11-15 20:34:22,967	Created Account SSN123-23-198	x0101x@yahoo.com
+2019-11-15 20:34:22,968	Changed Password	x0101x@yahoo.com
+2019-11-15 20:34:22,969	Created Account	x0101x@yahoo.com
